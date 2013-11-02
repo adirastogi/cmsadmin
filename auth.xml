@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<admins>  
+<admin>
+<username>admin</username>
+<password>admin</password>
+</admin>
+<admin>
+<username>areva</username>
+<password>areva</password>
+</admin>
+</admins>
